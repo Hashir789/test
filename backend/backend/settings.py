@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#cwwj3fvo9&(8+yfv_tygfsj!^#@+fwpcjg7s9dl&_lqe$xkxj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.vercel.app']
 
 
 # Application definition
